@@ -5,7 +5,7 @@
 - Использует систему типов для описания данных.
 
 ## Используемые ресурсы и инструменты:
-- [VSCode (Редактор кода)](https://atom.io/)
+- [VSCode (Редактор кода)](https://code.visualstudio.com)
 - [Create React App (Рабочее окружение)](https://github.com/facebook/create-react-app)
 - [mongodb (База данных)](https://mongodb.com)
 - [Material-UI (Интерфейс приложения)](https://material-ui.com)
